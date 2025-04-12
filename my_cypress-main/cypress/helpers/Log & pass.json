@@ -1,0 +1,9 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+    "card_number": "5555555544444442",
+    "card_name": "german dolnikov",
+    "card_actual": "10/26",
+    "card_cvv": "125",
+    "secure_code": "56456"  
+}

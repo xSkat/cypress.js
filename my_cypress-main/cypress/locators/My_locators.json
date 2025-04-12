@@ -1,0 +1,14 @@
+{
+    
+    "email": "#k_email",
+    "password": "#k_password",
+    "sing_in": ".MuiButton-root",
+    "home": ".style_1_heading_38_400_pokemon_classic",
+    "chemp": ".single_page_body_content_title_text",
+    "avatars": ".k_mobile > :nth-child(5)",
+    "payment_page": ".payment_form_card_form_title",
+    "SMS_page": ".payment_form_3ds_title",
+    "buy_result": ".payment_status_top_title",
+    "butt_back": ".style_1_base_link_blue",
+    "shop": ".pokemon__title"
+  }
